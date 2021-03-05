@@ -9,11 +9,12 @@ colors upon reaching these bounds.
 ## Installation
 
 As long as the two files are in the same 
-directory, it should be plug and play.
+directory and the appropriate libraries are provided,
+it should be plug and play.
 
 ## Usage
 
-This project can be expanded upon with computer graphics.
+This project can be expanded upon with computer graphics and tinkering with the parameters.
 
 ## Support
 
